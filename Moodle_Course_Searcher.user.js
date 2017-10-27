@@ -3,7 +3,7 @@
 // @namespace   https://damos.world
 // @description Search for any course site on any page from textbook in Moodle header
 // @include     https://usqstudydesk.usq.edu.au/*
-// @version     0.1.4
+// @version     0.1.5 usq
 // @grant       none
 // ==/UserScript==
 
