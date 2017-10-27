@@ -2,14 +2,12 @@
 // @name        Moodle Course Searcher
 // @namespace   https://damos.world
 // @description Search for any course site on any page from textbook in Moodle header
-// @include     https://moodle.cqu.edu.au/*
-// @include     https://moodle-vet.cqu.edu.au/*
-// @include     https://moodle-archive-2014.cqu.edu.au/*
+// @include     https://usqstudydesk.usq.edu.au/*
 // @version     0.1.4
 // @grant       none
 // ==/UserScript==
 
-console.log('Running Moodle Course Search Header') ;
+//console.log('Running Moodle Course Search Header') ;
 
 try
 {
